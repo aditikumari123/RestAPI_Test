@@ -1,4 +1,4 @@
-package SerializationDeserialization;
+package SerializationDeserializationBYMe;
 
 public class DataClass1 {
     private int id;

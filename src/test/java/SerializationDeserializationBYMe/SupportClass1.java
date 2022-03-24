@@ -1,4 +1,4 @@
-package SerializationDeserialization;
+package SerializationDeserializationBYMe;
 
 public class SupportClass1 {
     private String url;
